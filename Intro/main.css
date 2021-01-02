@@ -1,0 +1,39 @@
+h1{
+    color: cadetblue;
+}
+
+.return-ok{
+    color: greenyellow;
+}
+
+.return-error{
+    color: lightcoral;
+}
+
+.button{
+    background-color: lightgray;
+    padding: 5px;
+    margin: 5px;
+    border: 1px lightslategray solid;
+    display: inline-block;
+    border-radius: 4px;
+    user-select: none;
+    
+}
+
+.button:hover{
+    background-color: lightslategray;
+}
+
+#support-box{
+    display: block;
+    border: 1px lightslategray solid;
+    background-color: lightsteelblue;
+    padding: 10px;
+    margin-top: 15px;
+}
+
+#support-convo{
+    min-height: 50px;
+    min-width: 50%;
+}
